@@ -1,0 +1,20 @@
+.card {
+  width: 196px;
+  background-color: white;
+}
+
+.card-content {
+  padding: 12px;
+  font-size: 14px;
+}
+
+.card-content strong {
+  display: block;
+  color: black;
+  font-weight: 500;
+}
+
+.card-content span {
+  display: block;
+  color: grey;
+}
